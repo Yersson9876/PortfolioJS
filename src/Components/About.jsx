@@ -23,8 +23,7 @@ const imageAltText = "blue and white abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm Web Designer and Computer Sciencist, I liked play to VideoGames";
+const description = "I'm Web Designer and Computer Sciencist, I liked play to VideoGames";
 
 /**
  * List of some of skills or technologies you work on, are learning,
