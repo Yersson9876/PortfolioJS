@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -43,7 +43,8 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote = "I am a backend developer with projects involving websites, databases, and 3D design and modeling. I assist individuals and students by teaching programming, as well as providing support to private companies in the web development field.";
+const detailOrQuote =
+  "I am a backend developer with projects involving websites, databases, and 3D design and modeling. I assist individuals and students by teaching programming, as well as providing support to private companies in the web development field.";
 
 const About = () => {
   return (
